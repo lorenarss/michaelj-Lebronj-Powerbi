@@ -1,0 +1,27 @@
+﻿Campo;;datatype;;Descrição
+jogo;:;number;-;numero do Jogo
+data_jogo;:;date;-;Data do jogo
+Idade;:;varchar;-;Idade no momento do jogo (Anos e Dias)
+cod_equipe;:;number;-;Codigo da Equipe de Jordan
+cod_equipe_opont;:;number;-;Codigo da Equipe adversaria de Jordan
+resultado;:;varchar;-;Venceu (W) ou Perdeu (L) 
+diff_pts;:;varchar;-;Valor de diferença de pontos
+minutos;:;number;-;Minutos em quadra
+2pts;:;number;-;Cesta de 2 Pontos Feitos
+2pts_at;:;number;-;Cesta de 2 Pontos Tentados
+2pts_pct;:;number;-;Cesta de 2 Pontos Percentual
+3pts;:;number;-;Cesta de 3 Pontos Feitos
+3pts_at;:;number;-;Cesta de 3 Pontos Tentados
+3pts_pct;:;number;-;Cesta de 3 Pontos Percentual
+LL;:;number;-;Lance Livre Feitos
+LL_at;:;number;-;Lance Livre Tentados
+LL_pct;:;number;-;Lance Livre Percentual
+Reb_Of;:;number;-;Rebotes Ofensivos
+Reb_Def;:;number;-;Rebotes Defensivos
+Reb_Tot;:;number;-;Total Rebotes
+Ast;:;number;-;Assistências
+Stl;:;number;-;Roubos
+Blk;:;number;-;Bloqueios
+Turnv;:;number;-;Erros
+Pts;:;number;-;Pontos Marcados
+Game_Score;:;number;-;Medida Estatistica de produtividade de um jogador durante o jogo

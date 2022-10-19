@@ -1,0 +1,28 @@
+﻿Campo;Descrição
+jogo;numero do Jogo
+data_jogo;Data do jogo
+serie;sigla da serie de playoffs (EC = Conferência Leste, WC = Conferência Oeste, 1 = 1.Rodada, S = Semifinais Conferência, F = Finais Conferência, FIN = Finais NBA)
+jogo_serie;numero do jogo da serie playoffs
+Idade;Idade no momento do jogo (Anos e Dias)
+cod_equipe;Codigo da Equipe de Jordan
+cod_equipe_opont;Codigo da Equipe adversaria de Jordan
+resultado;Venceu (W) ou Perdeu (L) com a diferença de pontos em parenteses
+minutos;Minutos em quadra
+2pts;Cesta de 2 Pontos Feitos
+2pts_at;Cesta de 2 Pontos Tentados
+2pts_pct;Cesta de 2 Pontos Percentual
+3pts;Cesta de 3 Pontos Feitos
+3pts_at;Cesta de 3 Pontos Tentados
+3pts_pct;Cesta de 3 Pontos Percentual
+LL;Lance Livre Feitos
+LL_at;Lance Livre Tentados
+LL_pct;Lance Livre Percentual
+Reb_Of;Rebotes Ofensivos
+Reb_Def;Rebotes Defensivos
+Reb_Tot;Total Rebotes
+Ast;Assistências
+Stl;Roubos
+Blk;Bloqueios
+Turnv;Erros
+Pts;Pontos Marcados
+Game_Score;Medida Estatistica de produtividade de um jogador durante o jogo
